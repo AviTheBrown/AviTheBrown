@@ -1,8 +1,8 @@
 ![banner](./hero-banner.png)
 
-# manishmah~!! i'm Avi ~!!
+# manishmah~!! i'm Avi (אבי) ~!!
 
-i'm a **systems programmer & enthusiast** - programming for the world computer.
+i'm a **systems programmer & enthusiast** - Located in the US programming for the world computer.
 
 i use **Zig, Rust, and Go**, btw
 
